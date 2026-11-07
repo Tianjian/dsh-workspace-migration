@@ -1,0 +1,22 @@
+# local artifacts produced by the scripts
+_migrate/
+**/integrity-report.json
+**/integrity-report.md
+**/session-manifest.json
+**/workspaces.json
+restart-log.txt
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+
+# node
+node_modules/
+
+# editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store

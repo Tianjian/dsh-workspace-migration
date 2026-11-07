@@ -1,0 +1,30 @@
+{
+  "sourceRoot": "C:\\Users\\me\\WorkBuddy",
+  "workspaces": [
+    {
+      "name": "workspace-01",
+      "path": "C:\\Users\\me\\WorkBuddy\\workspace-01",
+      "files": 181,
+      "bytes": 807452
+    },
+    {
+      "name": "workspace-02",
+      "path": "C:\\Users\\me\\WorkBuddy\\workspace-02",
+      "files": 1379,
+      "bytes": 79228247
+    },
+    {
+      "name": "workspace-03",
+      "path": "C:\\Users\\me\\WorkBuddy\\workspace-03",
+      "files": 0,
+      "bytes": 0
+    }
+  ],
+  "skipped": [
+    {
+      "name": "empty-scratch",
+      "path": "C:\\Users\\me\\WorkBuddy\\empty-scratch",
+      "reason": "empty directory"
+    }
+  ]
+}

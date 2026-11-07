@@ -1,0 +1,13 @@
+[
+  {
+    "workspaceId": "00000000-0000-4000-8000-000000000001",
+    "name": "workspace-01",
+    "cwd": "C:\\Users\\me\\Documents\\deepseek-harness\\workspace-01",
+    "title": "workspace-01 工作区内容与产出物",
+    "sessionId": "session-00000000-0000-4000-8000-0000000000aa",
+    "question": "列举本工作区的主要内容和产出物。",
+    "answer": "# workspace-01 — 工作区主要内容与产出物\n\n## 一、概况\n\n- 工作区路径：`C:\\Users\\me\\Documents\\deepseek-harness\\workspace-01`\n- 规模：**181 个文件**，共 **0.77 MB**（含隐藏目录）\n...（示例，正文由 build_session_content.py 生成）\n",
+    "files": 181,
+    "bytes": 807452
+  }
+]
